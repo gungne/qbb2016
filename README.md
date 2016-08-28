@@ -1,6 +1,8 @@
 Fall 2016 - AS.020.607 - Quantitative Biology Bootcamp
 ======================================================
 
+Updated ageneda and additional information will be posted at: http://bxlab.github.io/cmdb-bootcamp/
+
 ### Details and Logistics
 
 - Five day intensive bootcamp geared towards getting everyone up to speed with basic computational skills
