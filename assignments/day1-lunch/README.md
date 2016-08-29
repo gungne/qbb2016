@@ -1,7 +1,7 @@
 QBB2016 - Day 1 - Lunch Exercise
 ================================
 
-Summarize genome annotation (BDGP6.Ensembl.85.gtf) using Unix tools. Skim over [.GTF format](http://www.ensembl.org/info/website/upload/gff.html) specification. 
+Summarize genome annotation (BDGP6.Ensembl.85.gtf) using Unix tools. Skim over [.GTF format](http://useast.ensembl.org/info/website/upload/gff.html) specification. 
 
 **Unix References**
 
