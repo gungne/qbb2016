@@ -24,16 +24,16 @@ Here's one way to catch the output:
   - HINT: .split()
 5. Calculate average MAPQ score
   - HINT: think about string and numeric type conversions
-6. Count the number of spliced reads aligning to the forward strand, reverse strand, and how many are unspliced
-7. Count number of reads that start their alignment on chromosome 2L between base 10000 and 20000 (inclusive)
 
 **Advanced Exercises**
 
+1. Count the number of spliced reads aligning to the forward strand, reverse strand, and how many are unspliced
+1. Count number of reads that start their alignment on chromosome 2L between base 10000 and 20000 (inclusive)
 1. How many reads map to the reverse strand?
   - HINT 1: sam flag 0x10 bit
   - HINT 2: stackoverflow.com/questions/2591483/getting-a-specific-bit-value-in-a-byte-string
-2. Determine how many reads have an average quality score >30
+1. Determine how many reads have an average quality score >30
   - HINT 1: fastq wiki phred+33
   - HINT 2: stackoverflow.com/questions/227459/ascii-value-of-a-character-in-python
-3. Count the number of indels of length 1, 2, 3, 4, greater than 4
+1. Count the number of indels of length 1, 2, 3, 4, greater than 4
   - HINT: This is encoded in the "CIGAR" field
