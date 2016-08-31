@@ -19,7 +19,7 @@ Use `subset.fa` from this morning as your **target** sequence
 To get the _latest_ version of `fasta.py`:
 
 ```Bash
-$ wget "https://github.com/cutsort/qbb2016-answers/blob/master/day3-afternoon/fasta.py"
+$ wget "https://raw.githubusercontent.com/cutsort/qbb2016-answers/master/day3-afternoon/fasta.py"
 ```
 
 ### 1. Extend k-mer counter to k-mer matcher
