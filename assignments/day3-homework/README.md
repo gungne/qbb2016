@@ -6,7 +6,8 @@ The first step in alignment algorithms like BLAST and FASTA is to find
 candidate alignment "seeds" using a dictionary-like index. Here we will
 implement the two first steps of such a matcher. 
 
-Use **[this file](http://taylorlab.org/outoing/droYak2_seq.fa)** as your query sequence
+Use **[this file](http://taylorlab.org/outgoing/droYak2_seq.fa)** as your query sequence
+
 Use `subset.fa` from this morning as your target sequence
 
 ### 1. Extend k-mer counter to k-mer matcher
