@@ -9,6 +9,7 @@ implement the two first steps of such a matcher.
 ### Data
 
 Use **[this file](http://taylorlab.org/outgoing/droYak2_seq.fa)** as your query sequence. You can download it directly to your current directory like this:
+
     ```Bash
     $ wget "http://taylorlab.org/outgoing/droYak2_seq.fa"
     ```
