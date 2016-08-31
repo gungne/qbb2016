@@ -16,7 +16,7 @@ $ wget "http://taylorlab.org/outgoing/droYak2_seq.fa"
 
 Use `subset.fa` from this morning as your **target** sequence
 
-To get the latest version of `fasta.py`:
+To get the _latest_ version of `fasta.py`:
 
 ```Bash
 $ wget "https://github.com/cutsort/qbb2016-answers/blob/master/day3-afternoon/fasta.py"
