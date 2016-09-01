@@ -4,11 +4,11 @@ Submit your two Python scripts, with instructions needed to run them in a docume
 
 ## 1. Use a boxplot to visualize the distribution of abundance measurements for all Sxl isoforms.
 
-Create a boxplot for all the Sxl transcripts that have an FPKM >0 in SRR072893 and SRR072915.  ```log()``` the values, add a title, label the y-axis, and label each sample on the x-axis.
+Create a boxplot comparing the Sxl transcripts in SRR072893 that have an FPKM >0 against the Sxl transcripts in SRR072915 that have an FPKM >0.  ```log()``` the values, add a title, label the y-axis, and label each sample on the x-axis.
 
 * Python [bitwise operators](http://wiki.python.org/moin/BitwiseOperators)
 * Summary of most [matplotlib commands](http://matplotlib.org/api/pyplot_summary.html)
-*	Full [matplotlib documentation](http://matplotlib.org/api/pyplot_api.html)
+* Full [matplotlib documentation](http://matplotlib.org/api/pyplot_api.html)
 * CMDB Bootcamp [matplotlib gallery](http://bxlab.github.io/cmdb-bootcamp/gallery/README.html)
 
 ## 2. Plot the rolling mean FPKM from two samples for the main chromosomes
