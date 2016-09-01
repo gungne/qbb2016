@@ -24,7 +24,5 @@ Instead of plotting FPKM values for SRR072893 and SRR072915 directly, transform 
 
 ## 4. Density Plot
 
-Create a density plot of the FPKM values for SRR072893.
-
-* HINT: google pyplot kernel density
+Create a density plot of the FPKM values for SRR072893.  Google pyplot kernel density and follow gaussian_kde.
 
