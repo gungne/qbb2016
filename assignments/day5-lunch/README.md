@@ -22,9 +22,11 @@ are predictive of gene expression.
    *start*, *end*, *t_name*.
   - __*Hint:*__ Look at strand information
   
-3. Average the signal over each region using `bigWigAverageOverBed`. To get it, run
-   `brew install homebrew/science/ucsc-genome-browser` from the command line. The tool
-   can then be found in `/usr/local/Cellar/ucsc-genome-browser/316/bin`
+3. Average the signal over each region using `bigWigAverageOverBed`. To get it, run this from the command line.
+   
+   ````$ brew install homebrew/science/ucsc-genome-browser````
+   
+   The tool can then be found in `/usr/local/Cellar/ucsc-genome-browser/316/bin`
   - Remember: Running with no options will usually display usage
 
 4. Perform ordinary linear regression for each of the four marks to determine
